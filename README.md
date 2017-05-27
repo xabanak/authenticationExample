@@ -1,4 +1,4 @@
-This is a demonstration authentication system written for The Engine Company.
+This is a demonstration authentication system written for [The Engine Company](https://theengine.co/).
 
 ## Installation
 
