@@ -1,0 +1,25 @@
+{
+  "name": "node-authentication",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.4.1",
+    "bcrypt-nodejs": "latest",
+    "body-parser": "~1.17.1",
+    "connect-flash": "~0.1.1",
+    "connect-mongodb-session": "^1.3.0",
+    "cookie-parser": "~1.4.3",
+    "crypto": "0.0.3",
+    "ejs": "~2.5.2",
+    "express": "^4.15.2",
+    "express-session": "~1.15.2",
+    "method-override": "~2.3.6",
+    "mongodb": "latest",
+    "mongoose": "~4.9.9",
+    "morgan": "~1.7.0",
+    "passport": "~0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-totp": "0.0.2",
+    "sprintf": "^0.1.5",
+    "thirty-two": "^1.0.2"
+  }
+}
